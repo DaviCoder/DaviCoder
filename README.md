@@ -8,7 +8,7 @@
   <a href = "mailto: davisilva_nascimento@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=whit" target="_blank"></a>
 </div>
 
-<div>
+<div style="display: inline_block">
   <a href="https://github.com/DaviCoder">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaviCoder&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviCoder&layout=compact&langs_count=16&theme=nightowl"/>
