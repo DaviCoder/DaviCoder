@@ -39,4 +39,10 @@
             <td>&nbsp;</td>
             <td>&nbsp;</td>
         </tr>
+        <tr>
+            <td><img alt="xamarin" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-512/xamarin-282427.png"/></td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
     </table>
