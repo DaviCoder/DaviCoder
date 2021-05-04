@@ -22,7 +22,7 @@
 </div>
 -->
 
-<table style="width: auto; height: auto; display: inline-block;">
+<table style="display: inline-block;">
         <tr>
             <td class="auto-style2">
           <img alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/></td>
