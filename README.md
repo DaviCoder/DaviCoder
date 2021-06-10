@@ -38,11 +38,11 @@
             <td>&nbsp;</td>
             <td>&nbsp;</td>
         </tr>
-        <tr>
+        <!--<tr>
             <td><img alt="xamarin" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-512/xamarin-282427.png"/></td>
             <td>&nbsp;</td>
             <td>&nbsp;</td>
-        </tr>
+        </tr>-->
         <tr>
             <td><img alt="Entity" height="30" width="40" src="https://static.infragistics.com/marketing/Website/products/ignite-ui-landing/asp-net-core-logo.png"/></td>
             <td>&nbsp;</td>
