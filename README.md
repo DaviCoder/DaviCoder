@@ -13,6 +13,11 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviCoder&layout=compact&langs_count=16&theme=nightowl"/>
 <div>
   
+<div style="display: inline_block">
+  <img alt="CodeWars" src="https://www.codewars.com/users/DaviCoder/badges/large"/></td>
+<div>
+  
+  
   <!---
 <div style="display: inline-block"><br>
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
